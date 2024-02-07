@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "48117112862",
+    "project_id": "machinet-93f99",
+    "storage_bucket": "machinet-93f99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48117112862:android:038da9fd8052b6c3b68e0f",
+        "android_client_info": {
+          "package_name": "com.example.machinet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALxQa5Stlzwd4DunV13GGh3jvC-zUpeTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48117112862:android:55235d93fdddcce0b68e0f",
+        "android_client_info": {
+          "package_name": "com.example.nutri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALxQa5Stlzwd4DunV13GGh3jvC-zUpeTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
